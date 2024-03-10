@@ -1,4 +1,4 @@
-## Web Application Deploy Using AWS Services
+## WordPress Application Deploy Using AWS Services
 
 Below architect we are going to deploy:
 
